@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+*.exe
+*.db
+package-lock.json
+smart-contracts/artifacts/
+smart-contracts/cache/
+temp-deploy/
